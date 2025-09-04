@@ -1,5 +1,22 @@
-## Project Overview
-This repository contains a Data Science project focused on analyzing YouTube video data to predict audience safety and content categories. The project demonstrates skills in data cleaning, exploratory data analysis (EDA), machine learning model development, and result visualization.
+# 📊 YouTube Data Analysis Project
+
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python) 
+![GitHub](https://img.shields.io/badge/GitHub-Repo-black?logo=github)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-lightgrey)
+
+---
+
+## 📝 Project Overview
+This project analyzes **YouTube channel and video data** to extract insights about **revenue, views, subscriber growth, and language distribution**.  
+The analysis helps identify **high-performing channels** and trends across different content types and regions.
+
+---
+
+## 📂 Datasets
+| Dataset | Description |
+|---------|-------------|
+| `Channel_Master.csv` | Video-level details: Video ID, Title, Channel, Duration, Views, Language |
+| `Video_Summary.csv` | Video-level details and metrics |
 
 ---
 
